@@ -1,0 +1,8 @@
+When we output text in C++, we don’t always want all of the information to appear on one line.
+This can result in output that’s tough to read. 
+The users of your program will have a tough time finding specific points in a large block of information,
+also known as the dreaded “wall of text”.
+
+A chunk of text, also known as a “string” to  C++ developers, is a sequential series of characters terminated
+by the special end-of-string character, written as ‘\0’. There are many other such special characters,
+such as tab `\t` and newline `\n` (the topic of this blog post).
