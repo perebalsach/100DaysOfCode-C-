@@ -8,8 +8,8 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-#include <string.h>
-#include <stdio.h>
+// #include <string.h>
+// #include <stdio.h>
 
 int main()
 {
@@ -35,7 +35,23 @@ int main()
         return -1;
     }
 
+    std::string line;
+    while (std::getline(textFile, line))
+    {
+        while(true)
+        {
+            size_t pos = line.find(wordToFind);
+            if (pos != std::string::npos)
+                line.replace(pos, wordToReplace.length(), wordToReplace);
+            else
+                break;
+        }
+        newTextFile << line << " \n";
+    }
+
+    /*
     std::string word = "";
+    
     while (textFile >> word)
     {
         
@@ -48,7 +64,7 @@ int main()
         word += " ";
         newTextFile << word;
     }
-    
+    */
     newTextFile.close();
     textFile.close();
 
