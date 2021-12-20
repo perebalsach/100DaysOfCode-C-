@@ -15,4 +15,25 @@ Hi! Here is the list of all the exercises I'll do in the 100 days of C++
 - [ ] 010 &#8594; Print reverse of a string using recursion
 
 ## Working with Pointers
-- [ ] 011 &#8594;
+- [ ] 011 &#8594; Write C++ program to swap two numbers using pointers
+- [ ] 012 &#8594; Write C++ program to copy one string to another string using pointer
+- [ ] 013 &#8594; Write C++ program to print the elements of the array in reverse order using a pointer
+- [ ] 014 &#8594; Write C++ program to swap elements using call by reference. Ex.  (1,2,3) -> (3,1,2)
+- [ ] 015 &#8594;
+- [ ] 016 &#8594;
+- [ ] 017 &#8594;
+- [ ] 018 &#8594;
+- [ ] 019 &#8594;
+- [ ] 020 &#8594;
+
+## Working with Classes
+- [ ] 021 &#8594;
+- [ ] 022 &#8594;
+- [ ] 023 &#8594;
+- [ ] 024 &#8594;
+- [ ] 025 &#8594;
+- [ ] 026 &#8594;
+- [ ] 027 &#8594;
+- [ ] 028 &#8594;
+- [ ] 029 &#8594;
+- [ ] 030 &#8594;
