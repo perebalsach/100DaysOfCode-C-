@@ -10,7 +10,7 @@ Hi! Here is the list of all the exercises I'll do in the 100 days of C++
 - [x] 005 &#8594; Write a C++ program to capitalize the first letter of each word of a given string |
 - [x] 006 &#8594; Write a C++ program to convert a given non-negative integer to English words |
 - [x] 007 &#8594; Write a C++ program to check if a given string is a Palindrome or not
-- [ ] 008 &#8594; Write a C++ program to find the duplicated words in a vector of strings and display them on screen using a vector string
+- [x] 008 &#8594; Write a C++ program to find the duplicated words in a vector of strings and display them on screen using a vector string
 - [ ] 009 &#8594; Write a program that reads a date in the first format and prints that date in the second format (07/21/1955 <-> July 21, 1955)
 - [ ] 010 &#8594; Print reverse of a string using recursion
 
