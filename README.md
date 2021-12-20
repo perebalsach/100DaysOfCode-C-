@@ -19,9 +19,9 @@ Hi! Here is the list of all the exercises I'll do in the 100 days of C++
 - [ ] 012 &#8594; Write C++ program to copy one string to another string using pointer
 - [ ] 013 &#8594; Write C++ program to print the elements of the array in reverse order using a pointer
 - [ ] 014 &#8594; Write C++ program to swap elements using call by reference. Ex.  (1,2,3) -> (3,1,2)
-- [ ] 015 &#8594;
-- [ ] 016 &#8594;
-- [ ] 017 &#8594;
+- [ ] 015 &#8594; Write C++ program to compute the sum of all elements in an array using pointers
+- [ ] 016 &#8594; Write C++ program to print all the alphabets using a pointer
+- [ ] 017 &#8594; Write C++ program to print a string in reverse using a pointer
 - [ ] 018 &#8594;
 - [ ] 019 &#8594;
 - [ ] 020 &#8594;
